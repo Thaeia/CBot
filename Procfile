@@ -1,1 +1,1 @@
-worker: java CutieBot.js
+worker: node index.js
